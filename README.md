@@ -1,11 +1,9 @@
 [![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)]
 <h1 align="center">Hi 👋, I'm Abhishek Roushan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Android developer from India</h3>
 <img align = "right" alt="Coding" width="400" src = "https://camo.githubusercontent.com/7cab7453b50c32be4c3605a42cb5e509644666999796555e759d06a9facf6b4a/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi95081&label=Profile%20views&color=0e75b6&style=flat" alt="abhi95081" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhi95081" alt="abhi95081" /></a> </p>
 
 - 🔭 I’m currently working on **HLX**
 
@@ -15,8 +13,9 @@
 
 - 📫 How to reach me **abhirou7@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
-
+- ⚡ Fun fact **I am Developer**
+- 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhi95081" alt="abhi95081" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhishek-roushan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-roushan/" height="30" width="40" /></a>
