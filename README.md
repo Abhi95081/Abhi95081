@@ -14,7 +14,7 @@
 - 📫 How to reach me **abhirou7@gmail.com**
 
 - ⚡ Fun fact **I am Developer**
-- 
+  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhi95081" alt="abhi95081" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
