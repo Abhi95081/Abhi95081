@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Jetpack Compose**
 - 💬 Ask me about **Android Development**
 - 📫 How to reach me **abhirou7@gmail.com**
-- ⚡ Fun fact **I am a Developer**
+- ⚡ Fun fact **I am a 3rd year Student**
 
 ---
 
