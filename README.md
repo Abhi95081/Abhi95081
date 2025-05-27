@@ -5,7 +5,7 @@
 <h1 align="center">🚀 A Passionate Full Stack Android Developer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=90&lines=4th+year+Engineering+Student;Jetpack+Compose+Lover;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=100&lines=4th+year+Engineering+Student;Jetpack+Compose+Lover;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
 <p align="center">
