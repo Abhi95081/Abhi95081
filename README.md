@@ -4,25 +4,39 @@
 <h1 align="center">Hi 👋, I'm Abhishek Roushan</h1>
 <h1 align="center">🚀 A Passionate Full Stack Android Developer</h1>
 
+<!-- Typing animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=100&lines=4th+year+Engineering+Student;Jetpack+Compose+Lover;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
+<!-- View counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhi95081&label=Profile%20views&color=0e75b6&style=flat" alt="abhi95081" />
 </p>
 
+<!-- Right-side animation -->
 <img align="right" alt="Coding" width="420" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8eb1.gif" />
 
 ---
 
 ### 🌱 About Me
 
-- 🎓 I’m a **4th year B.Tech student**
-- 🌱 Currently diving deeper into **Jetpack Compose**
-- 💬 Ask me about **Android Development, Kotlin, and App Architecture**
-- 📫 Reach me at: **abhirou7@gmail.com**
-- ⚡ Fun Fact: **I debug better with coffee ☕**
+<table>
+  <tr>
+    <td>
+
+- 🎓 I’m a **Final Year B.Tech Student** passionate about building impactful mobile solutions  
+- 📱 Currently diving deeper into **Jetpack Compose** and modern Android architecture  
+- 💬 Ask me about **Android Development, Kotlin, MVVM, or API integration**  
+- 📫 Reach me at: **[abhirou7@gmail.com](mailto:abhirou7@gmail.com)**  
+- ⚡ Fun Fact: **I debug better with coffee ☕ and late-night lo-fi beats**
+
+  </td>
+  <td>
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding Animation" />
+  </td>
+</tr>
+</table>
 
 ---
 
@@ -104,10 +118,4 @@
 <a href="https://www.leetcode.com/abhi1rou23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhi1rou23" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/22bcs10187" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="22bcs10187" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/abhishek_roushan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhishek_roushan/" height="30" width="40" /></a>
-</p>
-
----
-
-<p align="center">
-  Made with ❤️ by Abhishek Roushan
 </p>
