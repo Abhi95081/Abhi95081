@@ -2,11 +2,11 @@
 <img src="https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Abhishek Roushan</h1>
-<h3 align="center">🚀 Full Stack Android Developer | Python & Flutter Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Android Developer | Kotlin & KMP Enthusiast</h3>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Flutter+%7C+Dart+%7C+Kotlin+%7C+Python;Jetpack+Compose+Lover+❤️;Final+Year+Engineering+Student;Building+Mobile+Solutions+with+Impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Kotlin+%7C+Jetpack+Compose+%7C+KMP;Jetpack+Compose+Lover+❤️;Final+Year+Engineering+Student;Building+Mobile+Solutions+with+Impact" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -20,9 +20,9 @@
 ### 🌱 About Me
 
 - 🎓 Final Year B.Tech Student  
-- 📱 Passionate about Kotlin, Jetpack Compose, and Flutter  
+- 📱 Passionate about Kotlin, Jetpack Compose, and KMP  
 - 🧠 Exploring Python, Machine Learning, and Backend APIs  
-- 💬 Ask me about Android Dev, Dart, MVVM, or REST APIs  
+- 💬 Ask me about Android Dev, MVVM, or REST APIs  
 - 📫 Reach me at: **[abhirou7@gmail.com](mailto:abhirou7@gmail.com)**  
 - ⚡ Fun Fact: Debugging + Coffee + Lo-fi = Magic ☕🎧
 
@@ -33,8 +33,7 @@
 #### 📱 Mobile & Cross-Platform
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin%20Multiplatform-7963F0?style=for-the-badge&logo=kotlin&logoColor=white)
 
 #### 💻 Programming & Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
