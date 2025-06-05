@@ -1,30 +1,43 @@
 <!-- Banner -->
-<img src="https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif" width="100%" />
+<p align="center">
+  <img src="https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif" width="100%" alt="Banner" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Abhishek Roushan</h1>
 <h3 align="center">🚀 Full Stack Android Developer | Kotlin & KMP Enthusiast</h3>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Kotlin+%7C+Jetpack+Compose+%7C+KMP;Jetpack+Compose+Lover+❤️;Final+Year+Engineering+Student;Building+Mobile+Solutions+with+Impact" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Kotlin+%7C+Jetpack+Compose+%7C+KMP;Jetpack+Compose+Lover+❤️;Final+Year+Engineering+Student;Building+Mobile+Solutions+with+Impact"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhi95081&label=Profile%20views&color=0e75b6&style=flat" alt="abhi95081" />
+  <img
+    src="https://komarev.com/ghpvc/?username=abhi95081&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Profile views"
+  />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8eb1.gif" />
+<img
+  align="right"
+  alt="Coding Animation"
+  width="400"
+  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8eb1.gif"
+/>
 
 ---
 
 ### 🌱 About Me
 
-- 🎓 Final Year B.Tech Student  
-- 📱 Passionate about Kotlin, Jetpack Compose, and KMP  
-- 🧠 Exploring Python, Machine Learning, and Backend APIs  
-- 💬 Ask me about Android Dev, MVVM, or REST APIs  
+- 🎓 Final Year B.Tech Student specializing in Computer Science  
+- 📱 Passionate about Kotlin, Jetpack Compose & Kotlin Multiplatform  
+- 🧠 Exploring Python, Machine Learning, and Backend API Development  
+- 💬 Always happy to discuss Android Development, MVVM, or REST APIs  
 - 📫 Reach me at: **[abhirou7@gmail.com](mailto:abhirou7@gmail.com)**  
-- ⚡ Fun Fact: Debugging + Coffee + Lo-fi = Magic ☕🎧
+- ⚡ Fun Fact: Debugging + Coffee + Lo-fi Beats = Productivity Booster ☕🎧
 
 ---
 
@@ -66,17 +79,18 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhi95081&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi95081&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi95081&layout=compact&theme=radical" />
-</p>
-
----
-
-### 🌟 GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/abhi95081" alt="abhi95081 GitHub chart" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=abhi95081&show_icons=true&theme=radical&hide_border=true&count_private=true"
+    alt="Abhishek Roushan's GitHub Stats"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=abhi95081&theme=radical&hide_border=true"
+    alt="GitHub Streak"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi95081&layout=compact&theme=radical"
+    alt="Top Languages"
+  />
 </p>
 
 ---
@@ -84,7 +98,10 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhi95081&theme=gruvbox&row=1&column=7" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=abhi95081&theme=gruvbox&row=1&column=7"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
@@ -92,10 +109,22 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/abhishek-roushan/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
-  <a href="https://instagram.com/abhishek_roushan_01"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
-  <a href="https://codeforces.com/profile/abhirou7"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="40" /></a>
-  <a href="https://www.leetcode.com/abhi1rou23"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" /></a>
-  <a href="https://www.hackerearth.com/22bcs10187"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" width="40" /></a>
-  <a href="https://www.geeksforgeeks.org/user/abhishek_roushan/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="40" /></a>
+  <a href="https://linkedin.com/in/abhishek-roushan/" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/abhishek_roushan_01" title="Instagram">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram" />
+  </a>
+  <a href="https://codeforces.com/profile/abhirou7" title="Codeforces">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="40" alt="Codeforces" />
+  </a>
+  <a href="https://www.leetcode.com/abhi1rou23" title="LeetCode">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" alt="LeetCode" />
+  </a>
+  <a href="https://www.hackerearth.com/22bcs10187" title="HackerEarth">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" width="40" alt="HackerEarth" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/abhishek_roushan/" title="GeeksforGeeks">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="40" alt="GeeksforGeeks" />
+  </a>
 </p>
