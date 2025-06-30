@@ -15,18 +15,11 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=abhi95081&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Profile views"
-  />
+  <img src="https://komarev.com/ghpvc/?username=abhi95081&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://visitcount.itsvg.in/api?id=abhi95081&label=Visitors&color=6A00FF&icon=5&pretty=true" alt="Visitor counter" />
 </p>
 
-<img
-  align="right"
-  alt="Coding Animation"
-  width="400"
-  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8eb1.gif"
-/>
+<img align="right" alt="Coding Animation" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8eb1.gif" />
 
 ---
 
@@ -41,12 +34,21 @@
 
 ---
 
+### 🚀 Featured Projects
+
+- 🔁 [**Hostel Online Exchange**](https://github.com/Abhi95081/HostelOnlineExchange) — Simplifying hostel item exchange
+- 📊 [**Sorting Visualizer**](https://github.com/Abhi95081/sorting_visualization) — Learn sorting algorithms visually
+- 📺 [**RTSP Streamer App**](https://github.com/Abhi95081/MyApplication) — Compose app using VLC + FFmpegKit
+- 🍱 **Smart Food Waste Matcher** — Matching food donors with NGOs (KMP + Supabase) *(Private)*
+
+---
+
 ### 🧰 Tech Stack
 
 #### 📱 Android & Multiplatform
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin%20Multiplatform-7963e6?style=for-the-badge&logo=kotlin&logoColor=white)
+![KMP](https://img.shields.io/badge/Kotlin%20Multiplatform-7963e6?style=for-the-badge&logo=kotlin&logoColor=white)
 
 #### 💻 Programming & Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -79,18 +81,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=abhi95081&show_icons=true&theme=radical&hide_border=true&count_private=true"
-    alt="Abhishek Roushan's GitHub Stats"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=abhi95081&theme=radical&hide_border=true"
-    alt="GitHub Streak"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi95081&layout=compact&theme=radical"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhi95081&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhi95081&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi95081&layout=compact&theme=radical&exclude_repo=sorting_visualization" alt="Top Languages" />
 </p>
 
 ---
@@ -98,10 +91,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=abhi95081&theme=gruvbox&row=1&column=7"
-    alt="GitHub Trophies"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=abhi95081&theme=gruvbox&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -127,4 +117,10 @@
   <a href="https://www.geeksforgeeks.org/user/abhishek_roushan/" title="GeeksforGeeks">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="40" alt="GeeksforGeeks" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F52FF&height=100&section=footer"/>
 </p>
