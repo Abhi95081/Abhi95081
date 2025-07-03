@@ -27,6 +27,7 @@
 
 - 🎓 Final Year B.Tech Student specializing in Computer Science  
 - 📱 Passionate about Kotlin, Jetpack Compose & Kotlin Multiplatform  
+- ⚛️ Building apps using React Native and Expo  
 - 🧠 Exploring Python, Machine Learning, and Backend API Development  
 - 💬 Always happy to discuss Android Development, MVVM, or REST APIs  
 - 📫 Reach me at: **[abhirou7@gmail.com](mailto:abhirou7@gmail.com)**  
@@ -36,9 +37,9 @@
 
 ### 🚀 Featured Projects
 
-- 🔁 [**Hostel Online Exchange**](https://github.com/Abhi95081/HostelOnlineExchange) — Simplifying hostel item exchange
-- 📊 [**Sorting Visualizer**](https://github.com/Abhi95081/sorting_visualization) — Learn sorting algorithms visually
-- 📺 [**RTSP Streamer App**](https://github.com/Abhi95081/MyApplication) — Compose app using VLC + FFmpegKit
+- 🔁 [**Hostel Online Exchange**](https://github.com/Abhi95081/HostelOnlineExchange) — Simplifying hostel item exchange  
+- 📊 [**Sorting Visualizer**](https://github.com/Abhi95081/sorting_visualization) — Learn sorting algorithms visually  
+- 📺 [**RTSP Streamer App**](https://github.com/Abhi95081/MyApplication) — Compose app using VLC + FFmpegKit  
 - 🍱 **Smart Food Waste Matcher** — Matching food donors with NGOs (KMP + Supabase) *(Private)*
 
 ---
@@ -49,6 +50,10 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![KMP](https://img.shields.io/badge/Kotlin%20Multiplatform-7963e6?style=for-the-badge&logo=kotlin&logoColor=white)
+
+#### 🌐 Cross-Platform & UI
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 #### 💻 Programming & Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
