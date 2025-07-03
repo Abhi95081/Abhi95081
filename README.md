@@ -88,7 +88,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhi95081&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=abhi95081&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi95081&layout=compact&theme=radical&exclude_repo=sorting_visualization" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi95081&layout=compact&theme=radical&langs_count=10" alt="Top Languages" />
 </p>
 
 ---
