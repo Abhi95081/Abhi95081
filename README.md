@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Roushan</h1>
 <h3 align="center">🚀 Full Stack Android Developer | Kotlin & KMP Enthusiast</h3>
 
-<!-- Rainbow Typing Animation -->
+<!-- Rainbow Animation -->
 <p align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=150&lines=Kotlin+%7C+Jetpack+Compose+%7C+KMP;Jetpack+Compose+Lover+❤️;Final+Year+Engineering+Student;Building+Mobile+Solutions+with+Impact&colors=%23ff0000,%23ff7f00,%23ffff00,%2300ff00,%2300ffff,%230000ff,%237f00ff"
