@@ -35,15 +35,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-- 🔁 [**Hostel Online Exchange**](https://github.com/Abhi95081/HostelOnlineExchange) — Simplifying hostel item exchange  
-- 📊 [**Sorting Visualizer**](https://github.com/Abhi95081/sorting_visualization) — Learn sorting algorithms visually  
-- 📺 [**RTSP Streamer App**](https://github.com/Abhi95081/MyApplication) — Compose app using VLC + FFmpegKit  
-- 🍱 **Smart Food Waste Matcher** — Matching food donors with NGOs (KMP + Supabase) *(Private)*
-
----
-
 ### 🧰 Tech Stack
 
 #### 📱 Android & Multiplatform
