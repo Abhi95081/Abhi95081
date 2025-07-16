@@ -28,7 +28,6 @@
 - 🎓 Final Year B.Tech Student specializing in Computer Science  
 - 📱 Passionate about Kotlin, Jetpack Compose & Kotlin Multiplatform  
 - ⚛️ Building apps using React Native and Expo  
-- 🧠 Exploring Python, Machine Learning, and Backend API Development  
 - 💬 Always happy to discuss Android Development, MVVM, or REST APIs  
 - 📫 Reach me at: **[abhirou7@gmail.com](mailto:abhirou7@gmail.com)**  
 - ⚡ Fun Fact: Debugging + Coffee + Lo-fi Beats = Productivity Booster ☕🎧
