@@ -14,8 +14,6 @@
   />
 </p>
 
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhi95081&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://visitcount.itsvg.in/api?id=abhi95081&label=Visitors&color=6A00FF&icon=5&pretty=true" alt="Visitor counter" />
