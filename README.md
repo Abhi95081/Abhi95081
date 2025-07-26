@@ -26,7 +26,7 @@
 ### 🌱 About Me
 
 - 🎓 Final Year B.Tech Student specializing in Computer Science  
-- 📱 Passionate about Kotlin, Jetpack Compose & Kotlin Multiplatform  
+- 📱 Passionate about Kotlin, Jetpack Compose & Kotlin Multiplatform  or OpenSource Contributor(GSSOC 2025) 
 - ⚛️ Building apps using React Native and Expo  
 - 💬 Always happy to discuss Android Development, MVVM, or REST APIs  
 - 📫 Reach me at: **[abhirou7@gmail.com](mailto:abhirou7@gmail.com)**  
