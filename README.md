@@ -27,13 +27,23 @@
 ### 🌱 About Me
 
 - 🎓 Final Year B.Tech Student specializing in Computer Science  
-- 📱 Passionate about Kotlin, Jetpack Compose & Kotlin Multiplatform  or OpenSource Contributor(GSSOC 2025) 
+- 📱 Passionate about Kotlin, Jetpack Compose & Kotlin Multiplatform  
+- 💻 Open Source Contributor at **GirlScript Summer of Code 2025 (GSSOC '25)** 🚀  
 - ⚛️ Building apps using React Native and Expo  
 - 💬 Always happy to discuss Android Development, MVVM, or REST APIs  
 - 📫 Reach me at: **[abhirou7@gmail.com](mailto:abhirou7@gmail.com)**  
 - ⚡ Fun Fact: Debugging + Coffee + Lo-fi Beats = Productivity Booster ☕🎧
 
 ---
+
+### 🏆 Open Source Contributions
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GSSOC'25-Contributor-orange?style=for-the-badge&logo=github" alt="GSSOC 2025 Contributor Badge" />
+</p>
+
+---
+
 
 ### 🧰 Tech Stack
 
