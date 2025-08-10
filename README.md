@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,10,20&height=250&section=header&text=Abhishek%20Roushan&fontSize=60&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Android%20Developer%20%7C%20Kotlin%20&amp;%20KMP%20Enthusiast&descSize=20&descAlign=50&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26&height=250&section=header&text=Abhishek%20Roushan&fontSize=60&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Android%20Developer%20%7C%20Kotlin%20&amp;%20KMP%20Enthusiast&descSize=20&descAlign=50&descAlignY=55&animation=fadeIn"/>
 </p>
+
 
 <!-- Animated Typing -->
 <p align="center">
