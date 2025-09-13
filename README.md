@@ -7,7 +7,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF5733&center=true&vCenter=true&width=900&lines=Kotlin+%7C+Jetpack+Compose+%7C+KMP;Android+%26+Cross+Platform+Developer;Open+Source+Contributor+%7C+GSSOC+2025;Creating+Impactful+Mobile+Solutions" />
 </p>
 
-<!-- Profile Badges -->
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhi95081&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
   <img src="https://visitcount.itsvg.in/api?id=abhi95081&label=Visitors&color=9b59b6&icon=5&pretty=true&style=for-the-badge" alt="Visitor Count"/>
