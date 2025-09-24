@@ -18,7 +18,7 @@
 - 🎓 Final Year **B.Tech CSE** Student  
 - 💻 Building **Android & KMP** applications  
 - 🚀 Contributor at **GSSOC '25**  
-- ⚡ Exploring **React Native & Cross-platform**  
+- ⚡ Exploring **KMP & Cross-platform**  
 - 🎯 Advocate of **Clean Architecture & Modern UI/UX**  
 - 📧 Reach me: [abhirou7@gmail.com](mailto:abhirou7@gmail.com)  
 - ☕ Fun Fact: Debugging + Coffee + Lo-fi Beats = 🔥 Productivity  
