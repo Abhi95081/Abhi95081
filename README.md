@@ -28,7 +28,6 @@
 ## 🏆 Open Source Contributions  
 
 <p align="center">
-  
   <img src="https://img.shields.io/badge/GSSOC'25-Contributor-FF9800?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
