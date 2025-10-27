@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-  
   <img src="https://komarev.com/ghpvc/?username=abhi95081&label=Profile%20views&color=blueviolet&style=for-the-badge"/>
   <img src="https://visitcount.itsvg.in/api?id=abhi95081&label=Visitors&color=9b59b6&icon=5&pretty=true&style=for-the-badge"/>
 </p>
