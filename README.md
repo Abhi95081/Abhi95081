@@ -1,5 +1,4 @@
 <p align="center">  
-  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,5,7,9,11,13,15,17,19,21,23,25&height=250&section=header&text=Abhishek%20Roushan&fontSize=60&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Android%20Developer%20&amp;%20KMP%20Enthusiast&descSize=20&descAlign=50&descAlignY=55&animation=fadeIn"/>
 </p>
 
