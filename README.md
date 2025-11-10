@@ -34,17 +34,6 @@
 
 ---
 
-## 📂 Featured Projects  
-
-- 🚀 [**Hostel Online Exchange**](https://github.com/Abhi95081/HostelOnlineExchange)  
-  Platform for hostel students to exchange items online with ease.  
-  ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white) ![Compose](https://img.shields.io/badge/Compose-3DDC84?logo=android&logoColor=white)
-
-- 🎮 [**Sorting Visualizer**](https://github.com/Abhi95081/sorting_visualization)  
-  Visualizing sorting algorithms using animations in Kotlin.  
-  ![Compose](https://img.shields.io/badge/Compose-3DDC84?logo=android&logoColor=white) ![Algorithms](https://img.shields.io/badge/Algorithms-FFA500)
-
----
 
 ## 🛠 Tech Stack  
 
