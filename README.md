@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6A00FF,100:00D4FF&text=Abhishek%20Roushan&fontSize=60&fontAlign=50&fontAlignY=40&fontColor=ffffff&desc=Android%20%7C%20KMP%20%7C%20Full%20Stack%20Developer&descAlignY=60&animation=fadeIn" />
 </p>
