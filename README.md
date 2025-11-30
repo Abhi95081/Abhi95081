@@ -1,6 +1,8 @@
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6A00FF,100:00D4FF&text=Abhishek%20Roushan&fontSize=60&fontAlign=50&fontAlignY=40&fontColor=ffffff&desc=Android%20%7C%20KMP%20%7C%20Full%20Stack%20Developer&descAlignY=60&animation=fadeIn" />
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=1000&color=00D4FF&lines=Android+%7C+Jetpack+Compose+%7C+KMP;Full+Stack+Mobile+Developer;Open+Source+Contributor+at+GSSOC+25;Crafting+Seamless+Apps+with+Modern+Designs" />
