@@ -70,24 +70,15 @@ My work blends:
 
 ---
 
-## 📊 **GitHub Analytics**
+### 📊 GitHub Highlights
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhi95081&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=abhi95081&theme=github-dark&hide_border=true" height="165" /> 
+</p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi95081&layout=compact&theme=github_dark&hide_border=true&langs_count=8" /> </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=abhirou7&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhirou7&theme=github-dark&hide_border=true" height="165" />
-</p>
+--- 
 
-<p align="center">
-  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=abhirou7&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-</p>
-
----
-
-## 🏅 **GitHub Trophies**
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhirou7&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10&margin-h=10&cache=none" />
-</p>
+### 🏅 GitHub Trophies 
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=abhi95081&theme=onedark&no-frame=true&margin-w=10&margin-h=10&row=1&column=6" /> </p> 
 
 ---
 ## 💬 Daily Inspiration  
