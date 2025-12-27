@@ -28,6 +28,7 @@ My work blends:
 ## ⚙️ **Tech Stack**
 
 ### 🧭 Android & Multiplatform
+
 <p>
   <img src="https://img.shields.io/badge/Kotlin-6A00FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Jetpack%20Compose-00D4FF?style=for-the-badge&logo=android&logoColor=white" />
