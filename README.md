@@ -45,6 +45,7 @@ My work blends:
 </p>
 
 ### 🔗 API & Databases
+
 <p>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
@@ -53,6 +54,7 @@ My work blends:
 </p>
 
 ### 🧰 Tools & Platforms
+
 <p>
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-1F6FEB?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
