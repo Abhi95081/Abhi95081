@@ -37,6 +37,7 @@ My work blends:
 </p>
 
 ### 🧠 Backend & Programming
+
 <p>
   <img src="https://img.shields.io/badge/Java-EA7C00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3673A5?style=for-the-badge&logo=python&logoColor=white" />
@@ -74,6 +75,7 @@ My work blends:
 ---
 
 ### 📊 GitHub Highlights
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhi95081&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=abhi95081&theme=github-dark&hide_border=true" height="165" /> 
 </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi95081&layout=compact&theme=github_dark&hide_border=true&langs_count=8" /> </p>
