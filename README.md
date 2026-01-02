@@ -84,6 +84,7 @@ My work blends:
 --- 
 
 ### 🏅 GitHub Trophies 
+
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=abhi95081&theme=onedark&no-frame=true&margin-w=10&margin-h=10&row=1&column=6" /> </p> 
 
 ---
