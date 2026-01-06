@@ -18,7 +18,6 @@ My work blends:
 ⚡ **Clean Architecture + Scalable Logic**  
 🌍 **Cross-Platform Development (KMP + Compose Multiplatform)**  
 
-
 - 🎓 Final-Year **B.Tech CSE**, Chandigarh University  
 - 🚀 Passionate about **Compose Everywhere (Android + Desktop + Web)**  
 - 💡 Contributor at **GSSOC ’25**  
