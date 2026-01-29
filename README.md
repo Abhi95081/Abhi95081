@@ -7,6 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&center=true&vCenter=true&width=950&color=00D4FF&lines=Android+Developer+%7C+Jetpack+Compose;Kotlin+Multiplatform+%7C+Compose+Everywhere;Open+Source+Contributor+%40+GSSOC+2025;Building+Fast%2C+Clean+%26+Scalable+Apps" />
 </p>
 
+
 <!-- 🐍 Contribution Snake -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
