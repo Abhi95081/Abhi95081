@@ -1,3 +1,5 @@
+<!-- 🌊 Premium Header -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6A00FF,100:00D4FF&text=Abhishek%20Roushan&fontSize=58&fontAlignY=40&fontColor=FFFFFF&desc=Android%20Developer%20%7C%20Kotlin%20Multiplatform%20%7C%20Full%20Stack&descAlignY=65&animation=fadeIn" />
 </p>
@@ -6,24 +8,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&center=true&vCenter=true&width=950&color=00D4FF&lines=Android+Developer+%7C+Jetpack+Compose;Kotlin+Multiplatform+%7C+Compose+Everywhere;Open+Source+Contributor+%40+GSSOC+2025;Building+Fast%2C+Clean+%26+Scalable+Apps" />
 </p>
 
+---
 
-<!-- 🌈 Rainbow Animated Contribution Snake -->
+<!-- 🌈 Animated Contribution Flow (WORKING) -->
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
-    style="
-      animation: rainbowShift 6s linear infinite;
-    "
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
+    alt="Animated Contribution Graph"
   />
 </p>
-
-<style>
-@keyframes rainbowShift {
-  0%   { filter: hue-rotate(0deg); }
-  100% { filter: hue-rotate(360deg); }
-}
-</style>
 
 ---
 
