@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6A00FF,100:00D4FF&text=Abhishek%20Roushan&fontSize=58&fontAlignY=40&fontColor=FFFFFF&desc=Android%20Developer%20%7C%20Kotlin%20Multiplatform%20%7C%20Full%20Stack&descAlignY=65&animation=fadeIn" />
 </p>
@@ -10,11 +9,21 @@
 
 <!-- 🐍 Contribution Snake -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<!-- 🏆 Royal Silver–Gold Snake -->
 
----
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+    style="
+      filter:
+        grayscale(0.2)
+        sepia(0.8)
+        saturate(7)
+        hue-rotate(10deg)
+        brightness(1.1);
+    "
+  />
+</p>
 
 ## 👨‍💻 About Me
 
