@@ -7,23 +7,25 @@
 </p>
 
 
-<!-- 🐍 Contribution Snake -->
-
-<!-- 🏆 Royal Silver–Gold Snake -->
+<!-- 🌈 Rainbow Animated Contribution Snake -->
 
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
     style="
-      filter:
-        grayscale(0.2)
-        sepia(0.8)
-        saturate(7)
-        hue-rotate(10deg)
-        brightness(1.1);
+      animation: rainbowShift 6s linear infinite;
     "
   />
 </p>
+
+<style>
+@keyframes rainbowShift {
+  0%   { filter: hue-rotate(0deg); }
+  100% { filter: hue-rotate(360deg); }
+}
+</style>
+
+---
 
 ## 👨‍💻 About Me
 
